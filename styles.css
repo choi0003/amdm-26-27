@@ -202,3 +202,6 @@ blockquote { border-left: 4px solid var(--line); margin: 1rem 0; padding: .25rem
   .site-nav a { font-size: .9rem; padding: .35rem .55rem; }
   .doc-embed iframe { height: 28rem; }
 }
+
+/* Yellow highlight for lesson numbers and Goal labels (original Sites style) */
+.hl { background-color: #FFD54F; padding: 1px 7px; border-radius: 4px; }
